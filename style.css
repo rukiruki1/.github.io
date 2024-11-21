@@ -1,4 +1,17 @@
 h1 ,p{
-    color: #880808;
-    margin-left: 20px;
+    color: whitesmoke;
+    margin-left: 25%;
+  }
+  body {
+    background-image: url("images/bgimage.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; 
+    background-size: cover;
+  }
+  .imageclass{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
